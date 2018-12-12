@@ -335,6 +335,7 @@ h6{
     color: #07703f;
     background: none;
     text-decoration: none;
+    font-weight: bold;
 }
 
 #mainMenu li.lastMenu{
